@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-p6-route-guards"
+    }
+  },
+  "defaultProject": "angular-p6-route-guards",
+  "cli": {
+    "analytics": false
+  }
 }
